@@ -38,5 +38,5 @@ elif user == pressure:
     area =int(input("enter area"))
     pressure = force/area
     print(pressure)
-else:
-    print('invalid formula')
+
+
